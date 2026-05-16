@@ -54,5 +54,4 @@ El proyecto sigue los principios de Clean Architecture:
 
 ---
 
-### 👨‍💻 Autor
-**Adrian Alvarez**
+© 2026 Adrián Alvarez. Todos los derechos reservados.
