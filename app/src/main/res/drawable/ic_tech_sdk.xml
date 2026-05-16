@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Smartphone icon — path only -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M5,2 L19,2 Q21,2 21,4 L21,20 Q21,22 19,22 L5,22 Q3,22 3,20 L3,4 Q3,2 5,2 Z"
+        android:strokeWidth="2"
+        android:strokeColor="#16A34A"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:fillColor="#16A34A"
+        android:pathData="M12,18 L12.01,18 Q12.01,18 12.01,18.01 L12,18.01 Z"
+        android:strokeWidth="2"
+        android:strokeColor="#16A34A"
+        android:strokeLineCap="round"/>
+</vector>

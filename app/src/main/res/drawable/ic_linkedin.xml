@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- LinkedIn icon using only path elements -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M16,8A6,6 0,0 1,22 14v7H18v-7A2,2 0,0 0,16 12,2 2,0 0,0 14,14v7H10v-7A6,6 0,0 1,16 8z"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M2,9H6V21H2z"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M4,6m-2,0a2,2 0,1 0,4 0a2,2 0,1 0,-4 0"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+</vector>

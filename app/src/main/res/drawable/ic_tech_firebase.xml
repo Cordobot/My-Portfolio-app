@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Flame icon for Firebase -->
+    <path android:fillColor="@android:color/transparent"
+        android:strokeColor="#F97316"
+        android:strokeWidth="2"
+        android:pathData="M8.5,14.5A2.5,2.5 0,0 0,11 17h2a2.5,2.5 0,0 0,2.5 -2.5c0,-1.5 -1,-2.5 -2,-3.5s-1.5,-2 -1.5,-3.5A3,3 0,0 1,14 5c0,0 0,2 -2,4c0,0 2.5,0 2.5,-2.5c0.5,1.5 2,2 2,4.5a5,5 0,0 1,-5 5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path android:fillColor="@android:color/transparent"
+        android:strokeColor="#F97316"
+        android:strokeWidth="2"
+        android:pathData="M12,20a4,4 0,0 1,-4 -4c0,-3 1.5,-5 2,-7.5C11.5,11 14,13 14,16a4,4 0,0 1,-2 3.46"
+        android:strokeLineCap="round"/>
+</vector>

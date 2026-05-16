@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Database icon — path only (no ellipse) -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M21,5 C21,6.657 16.971,8 12,8 C7.029,8 3,6.657 3,5 C3,3.343 7.029,2 12,2 C16.971,2 21,3.343 21,5 Z"
+        android:strokeWidth="2"
+        android:strokeColor="#94A3B8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M3,5 L3,19 C3,20.657 7.029,22 12,22 C16.971,22 21,20.657 21,19 L21,5"
+        android:strokeWidth="2"
+        android:strokeColor="#94A3B8"
+        android:strokeLineCap="round"/>
+    <path
+        android:fillColor="@android:color/transparent"
+        android:pathData="M3,12 C3,13.657 7.029,15 12,15 C16.971,15 21,13.657 21,12"
+        android:strokeWidth="2"
+        android:strokeColor="#94A3B8"
+        android:strokeLineCap="round"/>
+</vector>
