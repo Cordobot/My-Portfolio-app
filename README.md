@@ -56,5 +56,3 @@ El proyecto sigue los principios de Clean Architecture:
 
 ### 👨‍💻 Autor
 **Adrian Alvarez**
-- LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/tu-perfil/)
-- Portafolio Web: [Tu Web](https://tu-web.com/)
